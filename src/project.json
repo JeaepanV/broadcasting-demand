@@ -1,0 +1,22 @@
+{
+    "assets": [],
+    "encryptLevel": 3,
+    "useFeatures": [],
+    "launchConfig": {
+      "displaySplash": true,
+      "hideLogs": false,
+      "splashText": "Powered by P",
+      "stableMode": false
+    },
+    "main": "MainView.js",
+    "name": "播报需求",
+    "optimization": {
+      "removeOpenCv": true,
+      "unusedResources": false
+    },
+    "packageName": "org.p.tts",
+    "scripts": {},
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "ignore": ["build", "node_modules"]
+  }
